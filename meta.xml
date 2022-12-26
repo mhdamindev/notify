@@ -1,0 +1,9 @@
+<meta>
+<info author="! ӾNØ ⸸  RonTeR#3729" discord="https://discord.gg/kCHvgZ7v8W" />
+<script src="client.lua" type="client" />
+<file src='html/index.html' />
+<file src='html/index.js' />
+<file src='html/jqery.js' />
+<file src='html/style.css' />
+<file src='html/notification.wav' />
+</meta>
